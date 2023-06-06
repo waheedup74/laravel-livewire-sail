@@ -22,8 +22,8 @@ This Laravel Livewire application fetches and displays random quotes from Kanye 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/kanye-quotes.git
-   cd kanye-quotes
+   git clone https://github.com/waheedup74/laravel-livewire-sail.git
+   cd laravel-livewire-sail
 
 2. **Install dependencies:**
     ```bash
